@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(27, 27, 27);
+}
+h3{
+    color: white;
+}
+.present{
+    background-color: black;
+    width: 200px;
+    margin-left:100px ;
+    border-radius: 30px;
+    border: 6px;
+    border-left-style:outset;
+    border-color: green;
+    
+}
+.absent{
+    background-color: black;
+    width: 200px;
+    margin-left: 100px;
+     border-radius: 30px;
+    border: 6px;
+    border-left-style:outset;
+    border-color: red;
+}
+.leave{
+    background-color: black;
+    width: 200px;
+    margin-left: 100px;
+     border-radius: 30px;
+    border: 6px;
+    border-left-style:outset;
+    border-color: blue;
+}
+.main p{
+    color: white;
+    text-align: center;
+}
+.main{
+    display:flex;
+}
+h4{
+    color: white;
+}
+.table{
+    background-color: rgb(47, 46, 46);
+    width: 700px;
+    height: 200px;
+    padding: 10px;
+    margin-left: 140px;
+    border-radius: 20px;
+}
+pre{
+    color: rgb(72, 122, 240);
+}
+
